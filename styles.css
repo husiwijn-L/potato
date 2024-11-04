@@ -95,3 +95,55 @@
     line-height: 24px;
     letter-spacing: 0.4px;
   }
+
+  .white {
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    gap: 170px;
+    margin-top: 91px;
+  }
+
+  .white > h1 {
+    color: #403E3B;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+  }
+
+  .text3 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .text3 > p {
+    color: #403E3B;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .stephen {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .t1 {
+    color: #1B1A1A;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+  }
+
+  .t2 {
+    color: #645C55;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+  }
