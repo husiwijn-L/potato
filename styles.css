@@ -289,3 +289,38 @@
     font-size: 15px;
     line-height: 24px;
   }
+
+  .marble {
+    background-image: url("img/fon2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+  }
+
+  .marble > div {
+    margin-right: 100px;
+  }
+
+  .marble > div > h1 {
+    color: #403E3B;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .marble > div > p {
+    color: #645C55;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
