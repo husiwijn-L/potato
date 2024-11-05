@@ -374,3 +374,38 @@
     gap: 80px;
     margin-bottom: -70px;
   }
+
+  .staircase {
+    background-image: url("img/fon3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: baseline;
+    flex-direction: column;
+  }
+
+  .staircase > div {
+    margin-left: 100px;
+  }
+
+  .staircase > div > h1 {
+    color: #403E3B;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .staircase > div > p {
+    color: #645C55;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
