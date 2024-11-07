@@ -409,3 +409,47 @@
     font-size: 16px;
     line-height: 24px;
   }
+
+  .projects {
+    height: 918px;
+    background-color: #F7F7F7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .text5 {
+    margin-right: 590px;
+  }
+
+  .text5 > h1 {
+    color: #1B1A1A;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 39px;
+    line-height: 42px;
+  }
+
+  .text5 > p {
+    color: #645C55;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .images1 {
+    display: flex;
+    gap: 20px;
+  }
+
+  .projects > a > p {
+    color: #1B1A1A;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+  }
