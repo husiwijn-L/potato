@@ -504,3 +504,38 @@
     gap: 100px;
     margin-bottom: -40px;
   }
+
+  .opinion {
+    height: 314px;
+    background-color: #CEC4BC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 500px;
+  }
+
+  .text7 > p {
+    color: #645C55;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: -8px;
+    text-transform: uppercase;
+  }
+
+  .text7 > h1 {
+    color: #1B1A1A;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 42px;
+  }
+
+  .button3 > a > p {
+    color: #1B1A1A;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
