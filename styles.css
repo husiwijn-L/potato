@@ -453,3 +453,54 @@
     line-height: 24px;
     letter-spacing: 0.4px;
   }
+
+  .team {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .text6 {
+    width: 378.66px;
+    height: 392px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .text6 > h1 {
+    color: #403E3B;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+  }
+
+  .text6 > p {
+    color: #645C55;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  .text6 > a > p {
+    margin-left: 20px;
+    color: #1B1A1A;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+  }
+
+  .cheloveki {
+    width: 773.33px;
+    height: 392px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    margin-bottom: -40px;
+  }
